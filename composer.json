@@ -1,0 +1,5 @@
+{"name":"liberusoftware/module-crm-personalization","type":"liberu-module","autoload":{"psr-4":{"Liberu\\CRM\\Personalization\\":"src/"}},"extra":{"laravel":{"providers":["Liberu\\CRM\\Personalization\\PersonalizationServiceProvider"]},"liberu":{"name":"crm-personalization"}},
+    "require": {
+        "liberusoftware/module-organizations-teams": "^1.0"
+    }
+}
