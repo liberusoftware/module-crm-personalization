@@ -1,5 +1,1 @@
-{"name":"liberusoftware/module-crm-personalization","type":"liberu-module","autoload":{"psr-4":{"Liberu\\CRM\\Personalization\\":"src/"}},"extra":{"laravel":{"providers":["Liberu\\CRM\\Personalization\\PersonalizationServiceProvider"]},"liberu":{"name":"crm-personalization"}},
-    "require": {
-        "liberusoftware/module-organizations-teams": "^1.0"
-    }
-}
+{"name":"liberusoftware/module-crm-personalization","type":"liberu-module","autoload":{"psr-4":{"Liberu\\CRM\\Personalization\\":"src/"}},"extra":{"laravel":{"providers":["Liberu\\CRM\\Personalization\\PersonalizationServiceProvider"]},"liberu":{"name":"crm-personalization"}},"description":"Consent-aware rules and decisioning for content, offers, channels, time, locale and lifecycle","license":"MIT"}
